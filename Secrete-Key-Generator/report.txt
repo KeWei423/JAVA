@@ -1,0 +1,3 @@
+I have tested this program and there is no known issues. 
+
+But I do have one concern regarting comparing double to integers. For example in this program, the frequency of letter a is 12.46, I compared if 12.46 < 12. Eventhough answer is correct but I am not so sure if it's legal to do such thing.
