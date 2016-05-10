@@ -1,2 +1,2 @@
 # JAVA
-CS 3B Project
+CS 3B Projects
